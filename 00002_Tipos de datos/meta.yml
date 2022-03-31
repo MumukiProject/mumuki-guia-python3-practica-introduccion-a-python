@@ -1,0 +1,30 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"hola" es un string'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 4 es un número
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"4" es un número'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"True" es un booleano'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 0 es un booleano
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ninguna es verdadera
+  checked: false
+name: Tipos de datos

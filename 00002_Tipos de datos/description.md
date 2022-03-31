@@ -1,0 +1,1 @@
+Indicá cuáles de las siguientes afirmaciones son correctas:
