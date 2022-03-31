@@ -1,0 +1,9 @@
+---
+name: Práctica introducción a Python
+locale: es
+type: practice
+beta: false
+language: python3
+id_format: "%05d"
+order: []
+private: false

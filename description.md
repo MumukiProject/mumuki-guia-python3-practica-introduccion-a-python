@@ -1,0 +1,1 @@
+Este cuestionario está enfocado en los contenidos del capítulo 1 de las guías de Mumuki. Tomate tu tiempo para leer las preguntas y responder. Es una evaluación que te servirá para saber qué contenidos debés repasar de cara al parcial, por lo que es una evaluación individual.
