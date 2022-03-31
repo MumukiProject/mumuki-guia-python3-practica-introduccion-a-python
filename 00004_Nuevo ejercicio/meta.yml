@@ -1,0 +1,30 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 1 + 0 vale 10
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 1 + 0 vale True
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"1" +  "1" vale "2"'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: True or False vale True
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 40 + 0.4 vale 44
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ninguna es verdadera
+  checked: false
+name: Nuevo ejercicio
