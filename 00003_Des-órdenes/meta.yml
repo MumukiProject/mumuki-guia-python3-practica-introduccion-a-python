@@ -1,0 +1,29 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La computadora identificará cuál fue nuestra intención, y ejecutará lo que
+    en realidad estábamos intentando hacer
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La computadora identificará cuál fue nuestra intención, y corregirá la orden
+    para que sea correcta y podamos ejecutarla
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Se generará un error y al orden no se ejecutará
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La orden se ejecutará, pero producirá una resultado diferente del que deseábamos
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ninguna de las anteriores
+  checked: false
+name: Des-órdenes

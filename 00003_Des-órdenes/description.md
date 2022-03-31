@@ -1,0 +1,1 @@
+¿Qué sucede si al programar ingresamos una órden incorrecta? Indicá cuáles de las siguientes situaciones podrían ocurrir:
