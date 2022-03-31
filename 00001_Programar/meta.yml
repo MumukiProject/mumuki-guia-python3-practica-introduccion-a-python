@@ -1,0 +1,28 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Programar nos permite entender y ejecutar órdenes de una computadora, expresadas
+    en un lenguaje formal, como Python
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Programar nos permite permite entender y ejecutar órdenes de otras personas,
+    expresadas en un lenguaje natural, como el inglés
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Programar nos permite dar órdenes a una computadora empleando un lenguaje
+    natural, como el inglés
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Programar nos permite dar órdenes a una computadora empleando un lenguaje
+    formal, como Python
+  checked: true
+name: Programar
