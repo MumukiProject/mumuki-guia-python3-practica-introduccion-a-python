@@ -1,0 +1,24 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"3tristes tigres"'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"3 tristes tigres"'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"tres tristes tigres"'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Se produce un error
+  checked: false
+name: T1gr35

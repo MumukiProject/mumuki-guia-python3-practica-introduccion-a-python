@@ -1,0 +1,1 @@
+> ¿Cuánto vale `str(3) + "tristes tigres"`? Seleccioná la opción correcta.
