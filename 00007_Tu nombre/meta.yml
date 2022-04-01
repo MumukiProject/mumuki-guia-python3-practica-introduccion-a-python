@@ -1,0 +1,36 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: len("______") == 16
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: len("______") <= 3
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"â" in "______" or "Â" in "______"'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '"ë" in str.lower("______")'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '" " in "______"'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: str.startswith("______", "Xo")
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: str.startswith("Xo", "______")
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ninguna es verdadera
+  checked: true
+name: Tu nombre

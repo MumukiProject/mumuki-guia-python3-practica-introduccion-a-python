@@ -1,0 +1,1 @@
+> Completá los **______** con tu nombre e indicá cuáles de las siguientes expresiones valen True (es decir, son verdaderas).
