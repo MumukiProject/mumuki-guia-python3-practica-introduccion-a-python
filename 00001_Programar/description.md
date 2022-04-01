@@ -1,1 +1,1 @@
-> ¿En qué consiste programar? Seleccioná la opción correcta.
+> ¿En qué consiste **programar**? Seleccioná la opción correcta.
