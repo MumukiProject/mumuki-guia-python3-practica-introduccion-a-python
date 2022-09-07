@@ -18,7 +18,7 @@ choices:
     para que sea correcta y podamos ejecutarla
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Se generará un error y al orden no se ejecutará
+  value: Se generará un error y la orden no se ejecutará
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: La orden se ejecutará, pero producirá una resultado diferente del que deseábamos
