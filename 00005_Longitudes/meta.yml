@@ -8,26 +8,20 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`len("mesa")` vale `4`'
+- value: '`len("mesa")` vale `4`'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`len("True")` vale `4`'
+- value: '`len("True")` vale `4`'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`len(True)` vale `4`"
+- value: "`len(True)` vale `4`"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`len(4)` vale `4`"
+- value: "`len(4)` vale `4`"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`len("¡ey!")` vale `4`'
+- value: '`len("¡ey!")` vale `4`'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`len("oh no")` vale `4`'
+- value: '`len("oh no")` vale `4`'
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ninguna es verdadera
+- value: Ninguna es verdadera
   checked: false
 name: Longitudes
